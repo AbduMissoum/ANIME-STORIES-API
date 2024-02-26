@@ -20,11 +20,16 @@ To install the project, follow these steps:
 5-Run the application locally using npm start or yarn start.
 
 ## FEATURES
-###Anime Stories Listing: Display a comprehensive list of all Anime stories ceated by users .
-###Search Functionality: Allow users to search for Anime stories based on anime name,the user created the anime, or other criteria.
-###Anime Story Details: Provide detailed information about each anime story, including name of the story,description,details, the creator of the story,time when the story was created etc....
-###User Authentication: Implement user authentication to differentiate between basic users,and admin who manage the app,with the approperiate permissions for each role.
-###Create a new Anime story: Enable users to create a new Anime stories shared with other users,
+### Anime Stories Listing:
+Display a comprehensive list of all Anime stories ceated by users .
+### Search Functionality:
+Allow users to search for Anime stories based on anime name,the user created the anime, or other criteria.
+### Anime Story Details: 
+Provide detailed information about each anime story, including name of the story,description,details, the creator of the story,time when the story was created etc....
+### User Authentication: 
+Implement user authentication to differentiate between basic users,and admin who manage the app,with the approperiate permissions for each role.
+### Create a new Anime story:
+Enable users to create a new Anime stories shared with other users,
 
 
 ## Contributing
